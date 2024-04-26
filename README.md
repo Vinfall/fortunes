@@ -1,5 +1,7 @@
 # fortune-mod
 
+中文版介绍见 [README_zh-Hans](README_zh-Hans.md)
+
 Just some random fortune files I collected from wherever whoever knows.
 
 ## List
