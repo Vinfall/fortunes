@@ -1,0 +1,3 @@
+[submodule "misc"]
+	path = misc
+	url = forgejo:Vinfall/fortunes-misc.git
