@@ -1,3 +1,0 @@
-[submodule "vndb"]
-	path = vndb
-	url = forgejo:Vinfall/fortunes-vndb.git
